@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.nfsmith.data;
+package dev.nodeone.data;
 
 import java.sql.Connection;
 import java.util.logging.Logger;

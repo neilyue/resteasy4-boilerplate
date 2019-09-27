@@ -1,4 +1,4 @@
-package com.nfsmith.rest;
+package dev.nodeone.rest;
 
 import java.io.Serializable;
 
