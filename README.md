@@ -10,6 +10,8 @@ Tested with
 When Tomcat server is up, test by using POSTMAN and send request to localhost:8080/resteasy4/customers
 
 To configure a data source in Tomcat server, add the Resource definition in Context.xml. For instance
+
+```
 <Context>
   ......
    <Resource auth="Container" 
@@ -17,3 +19,4 @@ To configure a data source in Tomcat server, add the Resource definition in Cont
      username="YOUR_USER_NAME" password="YOUR_PASSWORD" type="javax.sql.DataSource" 
      url="jdbc:oracle:thin:@YOUR_DOMAIN:1521:YOUR_ORACLE_SID"/>
 </Context>
+```
