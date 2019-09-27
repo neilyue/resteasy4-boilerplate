@@ -1,6 +1,6 @@
 # resteasy4-boilerplate
 RESTEasy 4 Boilerplate for Tomcat with MySQL/Oracle add-ons
-Tested with 
+tested with 
 - Eclipse IDE for Enterprise Java Developers 2019-09 R (4.13.0)
 - Tomcat 9.0.24
 - Oracle 12c
