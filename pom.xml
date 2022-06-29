@@ -27,7 +27,7 @@
 
 	<properties>
 		<resteasy.version>4.0.0.Beta5</resteasy.version>
-		<version.mysql>5.1.40</version.mysql>
+		<version.mysql>8.0.28</version.mysql>
 		<version.oracle>12.2.0.1</version.oracle>
 	</properties>
 
